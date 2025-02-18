@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
+      <link>http://localhost:1313/blogs/20250218-xiaomi-tv-box-s-2nd-gen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blogs/20250218-xiaomi-tv-box-s-2nd-gen/</guid>
+      <description>第一篇文章 print(&amp;#34;Hello World&amp;#34;) </description>
+    </item>
+    <item>
+      <title>第一篇文章</title>
       <link>http://localhost:1313/blogs/first_post/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/blogs/first_post/</guid>
