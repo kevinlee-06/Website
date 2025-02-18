@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kevin&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:35555/tags/</link>
     <description>Recent content in Tags on Kevin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35555/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>http://localhost:35555/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>http://localhost:35555/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/tags/android/</link>
+      <link>http://localhost:35555/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/android/</guid>
+      <guid>http://localhost:35555/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Google TV</title>
-      <link>http://localhost:1313/tags/google-tv/</link>
+      <link>http://localhost:35555/tags/google-tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/google-tv/</guid>
+      <guid>http://localhost:35555/tags/google-tv/</guid>
       <description></description>
     </item>
     <item>
       <title>剁手手系列</title>
-      <link>http://localhost:1313/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</link>
+      <link>http://localhost:35555/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</guid>
+      <guid>http://localhost:35555/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</guid>
       <description></description>
     </item>
     <item>
       <title>小米</title>
-      <link>http://localhost:1313/tags/%E5%B0%8F%E7%B1%B3/</link>
+      <link>http://localhost:35555/tags/%E5%B0%8F%E7%B1%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B0%8F%E7%B1%B3/</guid>
+      <guid>http://localhost:35555/tags/%E5%B0%8F%E7%B1%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>開箱</title>
-      <link>http://localhost:1313/tags/%E9%96%8B%E7%AE%B1/</link>
+      <link>http://localhost:35555/tags/%E9%96%8B%E7%AE%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E9%96%8B%E7%AE%B1/</guid>
+      <guid>http://localhost:35555/tags/%E9%96%8B%E7%AE%B1/</guid>
       <description></description>
     </item>
   </channel>
