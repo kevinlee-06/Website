@@ -6,14 +6,14 @@
     <description>Recent content in Android on Kevin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://superlily.dev/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>剁手手系列 - 開箱「小米盒子S」2代</title>
       <link>https://superlily.dev/blogs/2025-02-18/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0800</pubDate>
       <guid>https://superlily.dev/blogs/2025-02-18/</guid>
-      <description>前幾天，我用樹莓派試了各種電視盒的系統，主要是想取代 Smasnug 電視內建的 Tizen 系統，部分原因是 YouTube 上的廣告太多。我嘗試了 Kodi 和 Android TV，發現 Android TV 系統最適合我。然而樹莓派的解碼性能讓我非常失望，無法流暢播放影片。今天在班會的空堂時剛好在三創看到，就決定購買一台小米盒子 S 2代。&#xA;開箱體驗 小米盒子 S 2代的包裝採用橘色外盒，打開後裡面包含了以下配件：&#xA;遙控器 10.5W DC 變壓器，接口尺寸為 4.0mm*1.7mm HDMI 連接線 1 公尺 小米盒子本體 使用說明書 很可惜的是，盒內並沒有包含遙控器所需的兩顆 AAA 電池。&#xA;使用體驗 實際使用上，小米盒子的表現讓我非常滿意。YouTube 播放 4k@60fps 的影片完全不卡頓，使用遙控器導覽也都很順暢。小米盒子 S 2代搭載 Google TV 系統，內建各種應用程式，例如 YouTube、Netflix、Spotify 等等，也可以透過 Google Play 商店安裝更多應用程式。&#xA;設定 Google TV 時需要強制登入 Google 帳號，這讓我有些不滿，因為我不是很想讓 Google 知道我在觀看的內容。不過這個問題可以透過安裝第三方的 YouTube 應用程式來解決。&#xA;客製化 SideLoad 應用程式 小米盒子使用基於 Android 的 Google TV 系統，可以透過 adb 指令或 apk 來安裝第三方應用程式。</description>
+      <description>開箱體驗 小米盒子 S 2代的包裝採用了醒目的橘色外盒，打開後內含以下配件：&#xA;遙控器 10.5W DC 變壓器（接口尺寸：4.0mm x 1.7mm） HDMI 連接線（1 公尺長） 小米盒子本體 使用說明書 可惜的是，盒內並未附帶遙控器所需的兩顆 AAA 電池。&#xA;使用體驗 實際使用中，小米盒子的表現讓我非常滿意。測試中播放 4K@60fps 的 YouTube 影片毫無卡頓，遙控器在導覽時也十分流暢。小米盒子 S 2代搭載 Google TV 系統，內建多種應用程式，如 YouTube、Netflix、Spotify 等，還可透過 Google Play 商店安裝更多應用程式。&#xA;在設定 Google TV 時必須強制登入 Google 帳號，這讓我略感不便，因為我並不希望 Google 追蹤我的觀看內容。不過這個問題可透過安裝第三方的 YouTube 應用程式來解決。&#xA;客製化 SideLoad 應用程式 小米盒子運行基於 Android 的 Google TV 系統，因此可以 SideLoad 安裝第三方應用程式。&#xA;在小米盒子上啟用「開發人員選項」。&#xA;在電腦上，先使用以下指令透過 Wi-Fi 連接小米盒子：&#xA;adb connect &amp;lt;tv_ip_address&amp;gt; 執行以下指令安裝 apk 檔案：&#xA;adb install &amp;lt;apk_file_path&amp;gt; 若成功安裝，終端機會輸出：&#xA;Performing Streamed Install Success 以下列出我測試過的應用程式，來源包含 Google Play 與 APK：</description>
     </item>
   </channel>
 </rss>
