@@ -41,6 +41,18 @@ toc:
 
 ![螢幕保護程式](/images/2025-02-18/11.png)
 
+## 配件
+
+以下 USB 配件我測試過能用：
+
+- USB 網卡
+- USB 音效卡
+- USB 滑鼠
+- USB 滑鼠
+- USB 相機
+- USB 硬碟
+- USB Hub
+
 ## 客製化
 
 ### SideLoad 應用程式
