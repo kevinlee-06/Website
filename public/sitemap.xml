@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:39961/tags/about/</loc>
+    <loc>https://superlily.dev/tags/about/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/android/</loc>
+    <loc>https://superlily.dev/tags/android/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/blogs/</loc>
+    <loc>https://superlily.dev/blogs/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/google-tv/</loc>
+    <loc>https://superlily.dev/tags/google-tv/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/</loc>
+    <loc>https://superlily.dev/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/</loc>
+    <loc>https://superlily.dev/tags/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</loc>
+    <loc>https://superlily.dev/tags/%E5%89%81%E6%89%8B%E6%89%8B%E7%B3%BB%E5%88%97/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/blogs/2025-02-18/</loc>
+    <loc>https://superlily.dev/blogs/2025-02-18/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/%E5%B0%8F%E7%B1%B3/</loc>
+    <loc>https://superlily.dev/tags/%E5%B0%8F%E7%B1%B3/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/blogs/first_post/</loc>
+    <loc>https://superlily.dev/blogs/first_post/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/tags/%E9%96%8B%E7%AE%B1/</loc>
+    <loc>https://superlily.dev/tags/%E9%96%8B%E7%AE%B1/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:39961/gallery/</loc>
+    <loc>https://superlily.dev/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:39961/categories/</loc>
+    <loc>https://superlily.dev/categories/</loc>
   </url>
 </urlset>
