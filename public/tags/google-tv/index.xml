@@ -10,10 +10,10 @@
     <atom:link href="https://superlily.dev/tags/google-tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>剁手手系列 - 開箱「小米盒子S」2代</title>
-      <link>https://superlily.dev/blogs/2025-02-18/</link>
+      <link>https://superlily.dev/blogs/2025-02-19/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0800</pubDate>
-      <guid>https://superlily.dev/blogs/2025-02-18/</guid>
-      <description>開箱體驗 小米盒子 S 2代的包裝採用了醒目的橘色外盒，打開後內含以下配件：&#xA;遙控器 10.5W DC 變壓器（接口尺寸：4.0mm x 1.7mm） HDMI 連接線（1 公尺長） 小米盒子本體 使用說明書 可惜的是，盒內並未附帶遙控器所需的兩顆 AAA 電池。&#xA;使用體驗 實際使用中，小米盒子的表現讓我非常滿意。測試中播放 4K@60fps 的 YouTube 影片毫無卡頓，遙控器在導覽時也十分流暢。小米盒子 S 2代搭載 Google TV 系統，內建多種應用程式，如 YouTube、Netflix、Spotify 等，還可透過 Google Play 商店安裝更多應用程式。&#xA;在設定 Google TV 時必須強制登入 Google 帳號，這讓我略感不便，因為我並不希望 Google 追蹤我的觀看內容。不過這個問題可透過安裝第三方的 YouTube 應用程式來解決。&#xA;配件 以下 USB 配件我測試過能用：&#xA;USB 網卡 USB 音效卡 USB 滑鼠 USB 滑鼠 USB 相機 USB 硬碟 USB Hub 客製化 SideLoad 應用程式 小米盒子運行基於 Android 的 Google TV 系統，因此可以 SideLoad 安裝第三方應用程式。</description>
+      <guid>https://superlily.dev/blogs/2025-02-19/</guid>
+      <description>開箱體驗 小米盒子現在特價 1295 元，包裝採用了醒目的橘色外盒，打開後內含以下配件：&#xA;遙控器 10.5W DC 變壓器（接口尺寸：4.0mm x 1.7mm） HDMI 連接線（1 公尺長） 小米盒子本體 使用說明書 可惜的是，盒內並未附帶遙控器所需的兩顆 AAA 電池。&#xA;使用體驗 初始化設定時需要登入 Google 帳號 遙控器支援 Google 助理 遙控器支援藍牙連接 解碼性能不錯，比樹莓派好非常多 主畫面&#xA;螢幕保護程式&#xA;配件 以下 USB 配件我測試過能用：&#xA;USB 網卡 USB 音效卡 USB 滑鼠 USB 滑鼠 USB 相機 USB 硬碟 USB Hub 客製化 SideLoad 應用程式 小米盒子運行基於 Android 的 Google TV 系統，因此可以 SideLoad 安裝第三方應用程式。&#xA;在小米盒子上啟用「開發人員選項」。&#xA;在電腦上，先使用以下指令透過 Wi-Fi 連接小米盒子：&#xA;adb connect &amp;lt;tv_ip_address&amp;gt; 執行以下指令安裝 apk 檔案：&#xA;adb install &amp;lt;apk_file_path&amp;gt; 若成功安裝，終端機會輸出：</description>
     </item>
   </channel>
 </rss>

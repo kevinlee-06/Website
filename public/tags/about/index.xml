@@ -6,14 +6,14 @@
     <description>Recent content in About on Kevin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://superlily.dev/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
-      <link>https://superlily.dev/blogs/first_post/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
-      <guid>https://superlily.dev/blogs/first_post/</guid>
-      <description>第一篇文章 print(&amp;#34;Hello World&amp;#34;) </description>
+      <link>https://superlily.dev/blogs/0/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0800</pubDate>
+      <guid>https://superlily.dev/blogs/0/</guid>
+      <description>第一篇文章 print(&amp;#34;Hello World&amp;#34;) Lorem ipsum odor amet, consectetuer adipiscing elit. Morbi ultricies efficitur sociosqu mus duis porta himenaeos ultrices interdum. Magna euismod ad in conubia dapibus pulvinar. Aliquet donec augue congue dictum suscipit lacinia. Vel lectus magnis dictum luctus velit montes at. Purus platea maximus curae facilisis penatibus placerat pulvinar. Mollis egestas curabitur aliquam ridiculus ullamcorper nulla? Est ad ultricies orci congue arcu eros. Tristique tempus nisi tortor netus tortor; tortor ut mollis.</description>
     </item>
   </channel>
 </rss>

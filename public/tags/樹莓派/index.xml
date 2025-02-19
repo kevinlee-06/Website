@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>樹莓派 on Kevin&#39;s Blog</title>
+    <link>https://superlily.dev/tags/%E6%A8%B9%E8%8E%93%E6%B4%BE/</link>
+    <description>Recent content in 樹莓派 on Kevin&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://superlily.dev/tags/%E6%A8%B9%E8%8E%93%E6%B4%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>樹莓派 5B 與他的配件們</title>
+      <link>https://superlily.dev/blogs/2025-02-18/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0800</pubDate>
+      <guid>https://superlily.dev/blogs/2025-02-18/</guid>
+      <description>最近入手了新的樹莓派 5B，4GB 記憶體版本。這篇文章將簡單記錄購買的配件。&#xA;初印象 第一眼就被它的新設計吸引，背面完全沒有凸出來的針腳，拿起來更舒服。不過在實際測試中也發現了幾個小問題：&#xA;過熱問題：機身溫度會上升很快，就算閒置時也非常燙，且容易自動降頻。 電源相容性：使用一般 PD 充電器時，系統會提示「不支援 5A」的警告。 配件選購與解決方案 散熱外殼 這款散熱外殼使用鋁合金材質，搭配有可透過程式控制的風扇，導熱效果相當不錯。 配上這個外殼後，樹莓派 5B 的運作溫度能夠維持在 30 到 40 度左右，即使在高負載情況下，也大幅降低了因溫度過高而引起的降頻問題。&#xA;賣場：https://tw.shp.ee/uk4grPQ 電源供應器 這款電源供應器能穩定輸出 5A 電流，還採用較粗的線徑。&#xA;賣場：https://tw.shp.ee/GDa6Vkm </description>
+    </item>
+  </channel>
+</rss>
